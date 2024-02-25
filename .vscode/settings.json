@@ -1,0 +1,6 @@
+{
+  // 重新设定 tabsize，默认是 4
+  "editor.tabSize": 2,
+  //   在未保存代码时禁用编译文件。
+  "compile-hero.disable-compile-files-on-did-save-code": false
+}
