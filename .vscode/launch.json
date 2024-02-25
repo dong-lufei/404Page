@@ -7,8 +7,8 @@
     {
       "type": "chrome",
       "request": "launch",
-      "name": "Open 404.html",
-      "file": "c:\\Users\\13697\\Desktop\\404Page\\404.html",
+      "name": "debugFile",
+      "file": "${workspaceFolder}\\404.html",
       "runtimeExecutable": "D:\\scoop_user_apps\\apps\\googlechrome\\current\\chrome.exe"
     }
   ]
